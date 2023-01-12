@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/alife
+alife.so
+alife.dylib
+alife.dll
+alife.a
+alife.lib
+alife-test-*
+*.exe
+*.o
+*.obj
+*.lst

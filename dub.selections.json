@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"allegro": "4.0.5+5.2.0",
+		"bindbc-loader": "1.0.1",
+		"bindbc-sdl": "1.2.4"
+	}
+}

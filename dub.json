@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"angol-mois"
+	],
+	"copyright": "Copyright © 2023, angol-mois",
+	"dependencies": {
+		"bindbc-sdl": "~>1.2.4"
+	},
+	"description": "a command line conway's life game simulator",
+	"license": "proprietary",
+	"name": "life_game"
+}
